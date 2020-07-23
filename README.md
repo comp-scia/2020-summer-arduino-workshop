@@ -1,1 +1,1 @@
-# 2020-summer-arduino-workshop
+# 2020 Summer Arduino Workshop
