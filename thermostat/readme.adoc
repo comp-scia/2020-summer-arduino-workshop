@@ -1,5 +1,5 @@
-:Author: @avonbied
-:Date: 24/07/2020
+:Author: https://github.com/avonbied[Lex von Biedenfeld]
+:Date: 2020-07-24
 :Revision: 1.0.0
 :License: Public Domain
 
@@ -8,19 +8,17 @@
 This is a simple project showing off how to use the DHT11 Humidity and Temperature Sensor,
   the LCD Screen, and the Serial Monitor.
 
-== Step 1: Installation
+== Setup:
 
-1. Open this file
-2. Edit as you like
-3. Release to the World!
+1. *Open thermostat.ino*
 
-== Step 2: Assemble the circuit
+2. *Install the required libraries*
+  - *LiquidCrystal by Adafruit*
+  - *DHT Senser Library by Adafruit*
 
-Assemble the circuit following the diagram layout.png attached to the sketch
+3. *Assemble the circuit following the diagram layout.png attached to the sketch*
 
-== Step 3: Load the code
-
-Upload the code contained in this sketch on to your board
+4. *Compile and Run!*
 
 === License
 This project is released under a {License} License.
@@ -34,6 +32,6 @@ To contribute to this project please contact avonbied https://id.arduino.cc/avon
 | ID | Part name              | Part number | Quantity
 | HT | Temp-Humidity Sensor   | DHT11       | 1
 | PT | Potentiometer          | ADA356      | 1
-| A1 | Arduino UNO            | ABX00066    | 1
+| A1 | Arduino UNO            | UNO002      | 1
 | D1 | 16x2 LCD Module        | HD44780     | 1
 |===
