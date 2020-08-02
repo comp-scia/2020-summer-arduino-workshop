@@ -16,7 +16,7 @@ DHT dht(DHTPIN, DHTTYPE);
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
 const String TEMP_STR = "Temp(F): ";
-const String HUMID_STR = "Humid(%): ";
+const String HUMID_STR = "Humid: ";
 
 void setup() {
     // Serial Monitor
